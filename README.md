@@ -40,12 +40,17 @@
 
 <br>
 
-- **시연 영상**<br>
+- **실행 URL**
+
+  + https://hongchan2.github.io/calc/2/
+
+    
+
+- **시연 영상**
 
   + https://youtu.be/nYcy6bmGSo8
   
-  
-   
+    
   
 - **스크린샷**
 
